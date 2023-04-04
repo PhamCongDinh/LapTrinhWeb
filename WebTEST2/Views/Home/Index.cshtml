@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_LayoutTest";
+}
+@model List<Cauthu>
+
+    @foreach (var item in Model)
+    {
+        @await Html.PartialAsync("PartialSanPham", item)
+    }

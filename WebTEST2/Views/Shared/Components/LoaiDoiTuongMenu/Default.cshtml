@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Caulacbo>
+
+@foreach (var item in Model)
+{
+@*     var getUrl = "https://localhost:7065/api/productapi/" + item.MaNuoc;
+                <li>
+                    <a style="cursor:pointer" onclick="showProductsByCategory('@getUrl')">@item.TenNuoc</a>
+                </li> *@
+   @* <div class="col-sm-6 text-center">
+						<div class="featured">
+							<div class="desc">
+								<h2><a href="#">@item.TenClb</a></h2>
+							</div>
+						</div>
+</div>*@
+    var getUrl = "https://localhost:7051/api/cauthuapi/" + item.CauLacBoId;
+    <div class="col-sm-3 text-center">
+        <div class="featured">
+            <div class="desc">
+                <h2><a style="cursor:pointer" onclick="showCauthusByCLB('@getUrl')">@item.TenClb</a></h2>
+            </div>
+        </div>
+    </div>
+}
+
+<script>
+    function showCauthusByCLB(getUrl) {
+        var str = '';
+        $.ajax({
+            type: 'GET',
+            url: getUrl,
+            dataType: 'json',
+            error: function (response) {
+                alert(response.responseText);
+            },
+            success: function (data) {
+                $.each(data, function (key, val) {
+                    str += `<div class="col-lg-3 mb-4 text-center">
+	<div class="product-entry border">
+		<a href="#" class="prod-img">
+			<img src="../images/${val.anh}" class="img-fluid" alt="Free html5 bootstrap 4 template">
+		</a>
+		<div class="desc">
+			<h2><a href="#">${val.hoVaTen}</a></h2>
+			<span class="price">${val.soAo}</span>
+		</div>
+	</div>
+</div>`
+                });
+                $('#showcauthu').html(str);
+            }
+        });
+    }
+</script>

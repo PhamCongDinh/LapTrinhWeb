@@ -1,0 +1,1653 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebTEST2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebTEST2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1001.jpeg",
+      "PackagePath": "staticwebassets\\images\\1001.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1002.jpeg",
+      "PackagePath": "staticwebassets\\images\\1002.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1003.jpeg",
+      "PackagePath": "staticwebassets\\images\\1003.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1004.jpeg",
+      "PackagePath": "staticwebassets\\images\\1004.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1005.jpeg",
+      "PackagePath": "staticwebassets\\images\\1005.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1006.jpeg",
+      "PackagePath": "staticwebassets\\images\\1006.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1007.jpeg",
+      "PackagePath": "staticwebassets\\images\\1007.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1008.jpeg",
+      "PackagePath": "staticwebassets\\images\\1008.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1009.jpeg",
+      "PackagePath": "staticwebassets\\images\\1009.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1010.jpeg",
+      "PackagePath": "staticwebassets\\images\\1010.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1011.jpeg",
+      "PackagePath": "staticwebassets\\images\\1011.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1012.jpeg",
+      "PackagePath": "staticwebassets\\images\\1012.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1013.jpeg",
+      "PackagePath": "staticwebassets\\images\\1013.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1014.jpeg",
+      "PackagePath": "staticwebassets\\images\\1014.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1015.jpeg",
+      "PackagePath": "staticwebassets\\images\\1015.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1016.jpeg",
+      "PackagePath": "staticwebassets\\images\\1016.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1017.jpeg",
+      "PackagePath": "staticwebassets\\images\\1017.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1018.jpeg",
+      "PackagePath": "staticwebassets\\images\\1018.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1019.jpeg",
+      "PackagePath": "staticwebassets\\images\\1019.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1020.jpeg",
+      "PackagePath": "staticwebassets\\images\\1020.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1021.jpeg",
+      "PackagePath": "staticwebassets\\images\\1021.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1022.jpeg",
+      "PackagePath": "staticwebassets\\images\\1022.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1023.jpeg",
+      "PackagePath": "staticwebassets\\images\\1023.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1024.jpeg",
+      "PackagePath": "staticwebassets\\images\\1024.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1025.jpeg",
+      "PackagePath": "staticwebassets\\images\\1025.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1026.jpeg",
+      "PackagePath": "staticwebassets\\images\\1026.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1027.jpeg",
+      "PackagePath": "staticwebassets\\images\\1027.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1028.jpeg",
+      "PackagePath": "staticwebassets\\images\\1028.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1029.jpeg",
+      "PackagePath": "staticwebassets\\images\\1029.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1030.jpeg",
+      "PackagePath": "staticwebassets\\images\\1030.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1031.jpeg",
+      "PackagePath": "staticwebassets\\images\\1031.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1032.jpeg",
+      "PackagePath": "staticwebassets\\images\\1032.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1049.jpeg",
+      "PackagePath": "staticwebassets\\images\\1049.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1050.jpeg",
+      "PackagePath": "staticwebassets\\images\\1050.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1051.jpeg",
+      "PackagePath": "staticwebassets\\images\\1051.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1052.jpeg",
+      "PackagePath": "staticwebassets\\images\\1052.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1053.jpeg",
+      "PackagePath": "staticwebassets\\images\\1053.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1054.jpeg",
+      "PackagePath": "staticwebassets\\images\\1054.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1055.jpeg",
+      "PackagePath": "staticwebassets\\images\\1055.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1056.jpeg",
+      "PackagePath": "staticwebassets\\images\\1056.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1057.jpeg",
+      "PackagePath": "staticwebassets\\images\\1057.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1069.jpeg",
+      "PackagePath": "staticwebassets\\images\\1069.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1070.jpeg",
+      "PackagePath": "staticwebassets\\images\\1070.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1071.jpeg",
+      "PackagePath": "staticwebassets\\images\\1071.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1072.jpeg",
+      "PackagePath": "staticwebassets\\images\\1072.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1073.jpeg",
+      "PackagePath": "staticwebassets\\images\\1073.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1074.jpeg",
+      "PackagePath": "staticwebassets\\images\\1074.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1075.jpeg",
+      "PackagePath": "staticwebassets\\images\\1075.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1076.jpeg",
+      "PackagePath": "staticwebassets\\images\\1076.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1077.jpeg",
+      "PackagePath": "staticwebassets\\images\\1077.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1078.jpeg",
+      "PackagePath": "staticwebassets\\images\\1078.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1088.jpeg",
+      "PackagePath": "staticwebassets\\images\\1088.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1089.jpeg",
+      "PackagePath": "staticwebassets\\images\\1089.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1090.jpeg",
+      "PackagePath": "staticwebassets\\images\\1090.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1091.jpeg",
+      "PackagePath": "staticwebassets\\images\\1091.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1092.jpeg",
+      "PackagePath": "staticwebassets\\images\\1092.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1093.jpeg",
+      "PackagePath": "staticwebassets\\images\\1093.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1094.jpeg",
+      "PackagePath": "staticwebassets\\images\\1094.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1095.jpeg",
+      "PackagePath": "staticwebassets\\images\\1095.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1096.jpeg",
+      "PackagePath": "staticwebassets\\images\\1096.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1097.jpeg",
+      "PackagePath": "staticwebassets\\images\\1097.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1098.jpeg",
+      "PackagePath": "staticwebassets\\images\\1098.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1109.jpeg",
+      "PackagePath": "staticwebassets\\images\\1109.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1110.jpeg",
+      "PackagePath": "staticwebassets\\images\\1110.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1111.jpeg",
+      "PackagePath": "staticwebassets\\images\\1111.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1112.jpeg",
+      "PackagePath": "staticwebassets\\images\\1112.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1113.jpeg",
+      "PackagePath": "staticwebassets\\images\\1113.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1114.jpeg",
+      "PackagePath": "staticwebassets\\images\\1114.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1115.jpeg",
+      "PackagePath": "staticwebassets\\images\\1115.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1116.jpeg",
+      "PackagePath": "staticwebassets\\images\\1116.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1117.jpeg",
+      "PackagePath": "staticwebassets\\images\\1117.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1118.jpeg",
+      "PackagePath": "staticwebassets\\images\\1118.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1132.jpeg",
+      "PackagePath": "staticwebassets\\images\\1132.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1133.jpeg",
+      "PackagePath": "staticwebassets\\images\\1133.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1134.jpeg",
+      "PackagePath": "staticwebassets\\images\\1134.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1135.jpeg",
+      "PackagePath": "staticwebassets\\images\\1135.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1136.jpeg",
+      "PackagePath": "staticwebassets\\images\\1136.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1137.jpeg",
+      "PackagePath": "staticwebassets\\images\\1137.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1138.jpeg",
+      "PackagePath": "staticwebassets\\images\\1138.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1139.jpeg",
+      "PackagePath": "staticwebassets\\images\\1139.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1140.jpeg",
+      "PackagePath": "staticwebassets\\images\\1140.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1141.jpeg",
+      "PackagePath": "staticwebassets\\images\\1141.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1142.jpeg",
+      "PackagePath": "staticwebassets\\images\\1142.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1143.jpeg",
+      "PackagePath": "staticwebassets\\images\\1143.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1144.jpeg",
+      "PackagePath": "staticwebassets\\images\\1144.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1145.jpeg",
+      "PackagePath": "staticwebassets\\images\\1145.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1151.jpeg",
+      "PackagePath": "staticwebassets\\images\\1151.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1152.jpeg",
+      "PackagePath": "staticwebassets\\images\\1152.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1153.jpeg",
+      "PackagePath": "staticwebassets\\images\\1153.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1154.jpeg",
+      "PackagePath": "staticwebassets\\images\\1154.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1155.jpeg",
+      "PackagePath": "staticwebassets\\images\\1155.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1156.jpeg",
+      "PackagePath": "staticwebassets\\images\\1156.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1157.jpeg",
+      "PackagePath": "staticwebassets\\images\\1157.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1158.jpeg",
+      "PackagePath": "staticwebassets\\images\\1158.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1159.jpeg",
+      "PackagePath": "staticwebassets\\images\\1159.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1160.jpeg",
+      "PackagePath": "staticwebassets\\images\\1160.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1161.jpeg",
+      "PackagePath": "staticwebassets\\images\\1161.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1162.jpeg",
+      "PackagePath": "staticwebassets\\images\\1162.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1163.jpeg",
+      "PackagePath": "staticwebassets\\images\\1163.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1164.jpeg",
+      "PackagePath": "staticwebassets\\images\\1164.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1165.jpeg",
+      "PackagePath": "staticwebassets\\images\\1165.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1166.jpeg",
+      "PackagePath": "staticwebassets\\images\\1166.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1167.jpeg",
+      "PackagePath": "staticwebassets\\images\\1167.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1168.jpeg",
+      "PackagePath": "staticwebassets\\images\\1168.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1169.jpeg",
+      "PackagePath": "staticwebassets\\images\\1169.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1170.jpeg",
+      "PackagePath": "staticwebassets\\images\\1170.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1171.jpeg",
+      "PackagePath": "staticwebassets\\images\\1171.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1172.jpeg",
+      "PackagePath": "staticwebassets\\images\\1172.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1173.jpeg",
+      "PackagePath": "staticwebassets\\images\\1173.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\1175.jpeg",
+      "PackagePath": "staticwebassets\\images\\1175.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5001.jpeg",
+      "PackagePath": "staticwebassets\\images\\5001.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5002.jpeg",
+      "PackagePath": "staticwebassets\\images\\5002.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5003.jpeg",
+      "PackagePath": "staticwebassets\\images\\5003.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5004.jpeg",
+      "PackagePath": "staticwebassets\\images\\5004.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5005.jpeg",
+      "PackagePath": "staticwebassets\\images\\5005.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5006.jpeg",
+      "PackagePath": "staticwebassets\\images\\5006.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5007.jpeg",
+      "PackagePath": "staticwebassets\\images\\5007.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5008.jpeg",
+      "PackagePath": "staticwebassets\\images\\5008.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5009.jpeg",
+      "PackagePath": "staticwebassets\\images\\5009.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5010.jpeg",
+      "PackagePath": "staticwebassets\\images\\5010.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5011.jpeg",
+      "PackagePath": "staticwebassets\\images\\5011.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5012.jpeg",
+      "PackagePath": "staticwebassets\\images\\5012.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5013.jpeg",
+      "PackagePath": "staticwebassets\\images\\5013.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5014.jpeg",
+      "PackagePath": "staticwebassets\\images\\5014.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5015.jpeg",
+      "PackagePath": "staticwebassets\\images\\5015.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5016.jpeg",
+      "PackagePath": "staticwebassets\\images\\5016.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5018.jpeg",
+      "PackagePath": "staticwebassets\\images\\5018.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5019.jpeg",
+      "PackagePath": "staticwebassets\\images\\5019.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5020.jpeg",
+      "PackagePath": "staticwebassets\\images\\5020.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5021.jpeg",
+      "PackagePath": "staticwebassets\\images\\5021.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5022.jpeg",
+      "PackagePath": "staticwebassets\\images\\5022.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5023.jpeg",
+      "PackagePath": "staticwebassets\\images\\5023.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5024.jpeg",
+      "PackagePath": "staticwebassets\\images\\5024.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5025.jpeg",
+      "PackagePath": "staticwebassets\\images\\5025.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5026.jpeg",
+      "PackagePath": "staticwebassets\\images\\5026.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5028.jpeg",
+      "PackagePath": "staticwebassets\\images\\5028.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5029.jpeg",
+      "PackagePath": "staticwebassets\\images\\5029.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\5030.jpeg",
+      "PackagePath": "staticwebassets\\images\\5030.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\STD01.jpg",
+      "PackagePath": "staticwebassets\\images\\STD01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\STD02.jpg",
+      "PackagePath": "staticwebassets\\images\\STD02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\STD03.jpg",
+      "PackagePath": "staticwebassets\\images\\STD03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\STD04.jpg",
+      "PackagePath": "staticwebassets\\images\\STD04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\STD05.jpg",
+      "PackagePath": "staticwebassets\\images\\STD05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\STD06.jpg",
+      "PackagePath": "staticwebassets\\images\\STD06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\STD07.jpg",
+      "PackagePath": "staticwebassets\\images\\STD07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\STD08.jpg",
+      "PackagePath": "staticwebassets\\images\\STD08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\STD09.jpg",
+      "PackagePath": "staticwebassets\\images\\STD09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\STD10.jpg",
+      "PackagePath": "staticwebassets\\images\\STD10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\STD11.jpg",
+      "PackagePath": "staticwebassets\\images\\STD11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\STD12.jpg",
+      "PackagePath": "staticwebassets\\images\\STD12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\STD13.jpg",
+      "PackagePath": "staticwebassets\\images\\STD13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\STD14.jpg",
+      "PackagePath": "staticwebassets\\images\\STD14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\STD15.jpg",
+      "PackagePath": "staticwebassets\\images\\STD15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\STD16.jpg",
+      "PackagePath": "staticwebassets\\images\\STD16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\STD17.jpg",
+      "PackagePath": "staticwebassets\\images\\STD17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\STD18.jpg",
+      "PackagePath": "staticwebassets\\images\\STD18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\STD19.jpg",
+      "PackagePath": "staticwebassets\\images\\STD19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\images\\STD20.jpg",
+      "PackagePath": "staticwebassets\\images\\STD20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\main\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\css\\animate.css",
+      "PackagePath": "staticwebassets\\main\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\main\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\main\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\css\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\main\\css\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\css\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\main\\css\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\css\\css\\mixins\\.DS_Store",
+      "PackagePath": "staticwebassets\\main\\css\\css\\mixins\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\css\\css\\mixins\\_text-hide.css",
+      "PackagePath": "staticwebassets\\main\\css\\css\\mixins\\_text-hide.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\main\\css\\flexslider.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\main\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\main\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\main\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\main\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\main\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\css\\style.css",
+      "PackagePath": "staticwebassets\\main\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\main\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\main\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\main\\fonts\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\bootstrap\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\main\\fonts\\bootstrap\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\bootstrap\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\main\\fonts\\bootstrap\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\main\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\bootstrap\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\main\\fonts\\bootstrap\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\main\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\flaticon\\.DS_Store",
+      "PackagePath": "staticwebassets\\main\\fonts\\flaticon\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\main\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\main\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\main\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\main\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\main\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\main\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\main\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\main\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\main\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\icomoon\\.DS_Store",
+      "PackagePath": "staticwebassets\\main\\fonts\\icomoon\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\main\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\main\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\main\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\main\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\ionicons\\css\\_ionicons.scss",
+      "PackagePath": "staticwebassets\\main\\fonts\\ionicons\\css\\_ionicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\ionicons\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\main\\fonts\\ionicons\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\ionicons\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\main\\fonts\\ionicons\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\ionicons\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\main\\fonts\\ionicons\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\ionicons\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\main\\fonts\\ionicons\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\ionicons\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\main\\fonts\\ionicons\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\ionicons\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\main\\fonts\\ionicons\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\fonts\\ionicons\\fonts\\ionicons.woff2",
+      "PackagePath": "staticwebassets\\main\\fonts\\ionicons\\fonts\\ionicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\main\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\brand-1.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\brand-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\brand-2.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\brand-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\brand-3.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\brand-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\brand-4.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\brand-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\brand-5.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\brand-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\cover-img-1.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\cover-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\img_bg_1.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\img_bg_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\img_bg_2.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\img_bg_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\img_bg_3.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\img_bg_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\item-1.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\item-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\item-10.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\item-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\item-11.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\item-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\item-12.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\item-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\item-13.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\item-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\item-14.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\item-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\item-15.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\item-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\item-16.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\item-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\item-2.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\item-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\item-3.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\item-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\item-4.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\item-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\item-5.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\item-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\item-6.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\item-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\item-7.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\item-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\item-8.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\item-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\item-9.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\item-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\main\\images\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\loc.png",
+      "PackagePath": "staticwebassets\\main\\images\\loc.png"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\men.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\men.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\person1.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\person1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\person2.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\person2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\person3.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\person3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\images\\women.jpg",
+      "PackagePath": "staticwebassets\\main\\images\\women.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\main\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\js\\aos.js",
+      "PackagePath": "staticwebassets\\main\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\main\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\main\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\js\\google_map.js",
+      "PackagePath": "staticwebassets\\main\\js\\google_map.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\main\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\main\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\js\\jquery.animateNumber.min.js",
+      "PackagePath": "staticwebassets\\main\\js\\jquery.animateNumber.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\js\\jquery.countTo.js",
+      "PackagePath": "staticwebassets\\main\\js\\jquery.countTo.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\main\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\js\\jquery.flexslider-min.js",
+      "PackagePath": "staticwebassets\\main\\js\\jquery.flexslider-min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\main\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\main\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\main\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\main\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\js\\magnific-popup-options.js",
+      "PackagePath": "staticwebassets\\main\\js\\magnific-popup-options.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\js\\main.js",
+      "PackagePath": "staticwebassets\\main\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\main\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\main\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\js\\respond.min.js",
+      "PackagePath": "staticwebassets\\main\\js\\respond.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\.DS_Store",
+      "PackagePath": "staticwebassets\\main\\sass\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dinh\\Downloads\\WebTEST2\\WebTEST2\\wwwroot\\main\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\main\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebTEST2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebTEST2.props",
+      "PackagePath": "build\\WebTEST2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebTEST2.props",
+      "PackagePath": "buildMultiTargeting\\WebTEST2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebTEST2.props",
+      "PackagePath": "buildTransitive\\WebTEST2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
